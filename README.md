@@ -1,5 +1,6 @@
 ## Hi there! I'm Katherine Hulting (she/her)
 
+Welcome to my github profile! I'm a PhD student at Kellogg Biological Station, Michigan State University.
 <!--
 **hultingk/hultingk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
