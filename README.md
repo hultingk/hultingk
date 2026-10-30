@@ -1,6 +1,5 @@
 ## Katherine Hulting
 
-Welcome to my GitHub profile! I'm a PhD candidate at Kellogg Biological Station and Michigan State University. I study habitat fragmentation and biodiversity conservation. Read more about my research [here](https://sites.google.com/view/katherinehulting/home).
 
 
 <!--
